@@ -2,6 +2,7 @@
 Evidence is provided here of the following objectives:
 1. Explain communication concepts and strategies
 - Add evidence here.
+- [Specification](Conflict%20scenarios.docx)
 2. Show confidence and skills in oral communications and presentations
 - Add evidence here.
 3. Work effectively as part of a team
